@@ -1,3 +1,9 @@
+---
+layout: default
+---
+
+{% include header.md %}
+
 ## Program
 
 ### Tuesday December 6, 2016
