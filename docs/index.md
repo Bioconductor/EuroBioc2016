@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% include header.html %}
+{% include header.md %}
 
 The meeting is aimed at bioinformaticians, programmers and software
 engineers who contribute to the Bioconductor project, or are
