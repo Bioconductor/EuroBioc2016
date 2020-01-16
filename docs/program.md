@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% include header.md %}
+{% include header.html %}
 
 ## Program
 
