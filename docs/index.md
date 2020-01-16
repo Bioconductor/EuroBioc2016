@@ -2,6 +2,8 @@
 layout: default
 ---
 
+{% include header.md %}
+
 The meeting is aimed at bioinformaticians, programmers and software
 engineers who contribute to the Bioconductor project, or are
 interested in developing packages for Bioconductor. The goals are to: 
