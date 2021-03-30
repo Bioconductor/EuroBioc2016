@@ -1,6 +1,6 @@
-title: EuroBioc2019
+title: EuroBioc2016
 description:
-    European Bioconductor Conference
-    9-10 December 2019, Brussels, Belgium
+    European Bioconductor Meeting
+    6-7 December 2016, Basel, Switzerland
 theme: jekyll-theme-minimal
 exclude: [docs]
